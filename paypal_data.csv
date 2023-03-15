@@ -1,9 +1,11 @@
 ,Nombre,Fecha,Tipo,Cantidad,Efecto,Mensaje,Detalles
-0,FIVERR INTERNATIONAL LTD.,12 jun.,Pago recibido,$270.39,+ $270.39,,https://www.paypal.com/myaccount/transactions/details/9U161792E4998173W
-1,FIVERR INTERNATIONAL LTD.,8 may.,Pago recibido,$32.00,+ $32.00,,https://www.paypal.com/myaccount/transactions/details/4EF439847G193344H
-2,Lawal Ganiy,19 abr.,Dinero recibido,$25.24,+ $25.24,,https://www.paypal.com/myaccount/transactions/details/0YH67521MN069303R
-3,Mohamed Sellaki,13 abr.,Dinero recibido,$70.00,+ $70.00,,https://www.paypal.com/myaccount/transactions/details/7U648492D3765863K
-4,Red Pick Media,9 abr.,Dinero enviado,€21.9,- €21.92EUR,,https://www.paypal.com/myaccount/transactions/details/9VD33702MP1063139
-5,FIVERR INTERNATIONAL LTD.,8 abr.,Pago recibido,$76.00,+ $76.00,,https://www.paypal.com/myaccount/transactions/details/4FC79989B1581434U
-6,Red Pick Media,6 abr.,Dinero recibido,$47.21,+ $47.21,,https://www.paypal.com/myaccount/transactions/details/4J188408UB7917540
-7,Ajayi Ruth,18 mar.,Dinero recibido,$47.00,+ $47.00,"""Freelance""",https://www.paypal.com/myaccount/transactions/details/0SK943351R374253M
+0,Banco de Reservas de la Republica Dominicana,08/03,Transferir a cuenta bancaria,"$10,492.0","- $10,492.00DOP",,https://www.paypal.com/myaccount/activities/details/32U66787LX033625V
+1,Uber BV,07/03,Pago automático,$60.0,- $60.00DOP,,https://www.paypal.com/myaccount/activities/details/0NJ67001XL5844611
+2,Uber BV,07/03,Pago automático,$84.2,- $84.27DOP,,https://www.paypal.com/myaccount/activities/details/0UM86934WM028264U
+3,Uber BV,07/03,Pago automático,$114.6,- $114.69DOP,,https://www.paypal.com/myaccount/activities/details/8T995428D7711973Y
+4,Banco de Reservas de la Republica Dominicana,06/03,Transferir a cuenta bancaria,"$7,863.0","- $7,863.00DOP",,https://www.paypal.com/myaccount/activities/details/3SL005497L876843Y
+5,Uber BV,27/02,Pago automático,$219.0,- $219.00DOP,,https://www.paypal.com/myaccount/activities/details/3EB41801DR617632D
+6,Uber BV,24/02,Pago automático,$145.0,- $145.00DOP,,https://www.paypal.com/myaccount/activities/details/4Y7057790C8195338
+7,Uber BV,21/02,Pago automático,$100.0,- $100.00DOP,,https://www.paypal.com/myaccount/activities/details/12W54441RT095925X
+8,Banco de Reservas de la Republica Dominicana,10/02,Transferir a cuenta bancaria,"$2,613.0","- $2,613.00DOP",,https://www.paypal.com/myaccount/activities/details/28B551335H768814N
+9,FIVERR INTERNATIONAL LTD.,10/02,Pago recibido,$178.80,+ $178.80,,https://www.paypal.com/myaccount/activities/details/1HE32494NN681310J
